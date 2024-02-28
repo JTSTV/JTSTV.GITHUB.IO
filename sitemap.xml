@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jtstv.github.io/2024/02/25/Hexo%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%A6%82%E4%BD%95%E7%BD%AE%E9%A1%B6/</loc>
+    
+    <lastmod>2024-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jtstv.github.io/2023/10/10/2024-1-28-%E6%B3%A8%E6%84%8F%EF%BC%81%E5%81%9A%E5%A5%BD%E5%A4%87%E4%BB%BD/</loc>
     
     <lastmod>2024-02-27</lastmod>
@@ -174,15 +183,6 @@
   
   <url>
     <loc>https://jtstv.github.io/2024/02/20/2024-2-12-Window10%E4%BC%81%E4%B8%9A%E8%AF%84%E4%BC%B0%E7%89%88%E6%BF%80%E6%B4%BB/</loc>
-    
-    <lastmod>2024-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jtstv.github.io/2024/02/25/Hexo%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%A6%82%E4%BD%95%E7%BD%AE%E9%A1%B6/</loc>
     
     <lastmod>2024-02-27</lastmod>
     
@@ -436,7 +436,7 @@
 
   <url>
     <loc>https://jtstv.github.io/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -444,70 +444,63 @@
   
   <url>
     <loc>https://jtstv.github.io/tags/%E5%BF%83%E6%83%85/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/GitHub/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/%E4%B8%AD%E5%8C%BB%E5%85%BB%E7%94%9F/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/%E9%93%AD%E5%BF%97/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/%E8%B4%A6%E5%8D%95/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/%E7%83%AD%E8%88%9E/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/%E7%94%B5%E8%84%91/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jtstv.github.io/tags/Windows/</loc>
-    <lastmod>2024-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jtstv.github.io/tags/github/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
